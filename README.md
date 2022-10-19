@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elena Skripnichenko.
 - 👀 I’m interested in data researches that can help making better decisions and understand complicated interactions and behavior.
-- 🌱 Currently learning data science and ML.
+- 🌱 Currently learning DS and ML.
 - 💞️ Looking to collaborate on any kind of project I'd be usefull in.
 - 📫 How to reach me: email: skrilen.com@gmail.com or Telegram: @Skrilen
 
