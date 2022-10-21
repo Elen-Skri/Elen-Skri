@@ -1,5 +1,5 @@
 -  Hi, I’m Elena.
--  I’m interested in data researches that can help making better decisions and understand complicated interactions and behavior.
+-  I’m interested in data researches that can help making better decisions and understand complicated interactions.
 -  Currently developing myself in DS.
 -  Looking for collaboration.
 -  e-mail: skrilen.com@gmail.com or Telegram: @Skrilen
