@@ -1,8 +1,8 @@
 -  Hi, I’m Elena.
+-  Currently I'm developing myself in DS.
 -  I’m interested in data researches for making better decisions and understanding complicated interactions.
--  Currently developing myself in DS.
--  Looking for collaboration.
--  e-mail: skrilen.com@gmail.com or Telegram: @Skrilen
+-  E-mail me if you're looking for a collaboration or searching a team-mate: skrilen.com@gmail.com 
+-  or Telegram: @Skrilen
 
 <!---
 Elen-Skri/Elen-Skri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
