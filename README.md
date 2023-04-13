@@ -1,8 +1,9 @@
--  Hi, I’m Elena.
--  Currently I'm developing myself in DS.
--  I’m interested in data researches for making better decisions and understanding complicated interactions.
--  E-mail me if you're looking for a collaboration or searching a team-mate: skrilen.com@gmail.com 
--  or Telegram: @Skrilen
+  Hi, I’m Elena. Welcome to my repository :) 
+
+I'm studing ml & ds, here you'll find my Python projects for practical and study cases.
+I'm open for collaboration, please, do not hesitate to contact me: 
+  -  skrilen.com@gmail.com 
+  -  @Skrilen on Telegram
 
 <!---
 Elen-Skri/Elen-Skri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
